@@ -1,0 +1,4 @@
+﻿  Practice_2.cpp
+C:\Users\futbo\source\repos\Practice_2\Practice_2\Practice_2.cpp(13,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\futbo\source\repos\Practice_2\Practice_2\Practice_2.cpp(45,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Practice_2.vcxproj -> C:\Users\futbo\source\repos\Practice_2\x64\Debug\Practice_2.exe
